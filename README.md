@@ -30,6 +30,10 @@ Featured on [Noted](https://noted.lol/mind-reminders/), [Scotti-BYTE](https://di
 
 ## Installation, support and documentation
 
+- For one-click cloud deployment:
+
+  [![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/MIND/)
+
 - For instructions on how to install MIND, see the [installation documentation](https://casvt.github.io/MIND/installation/installation)
 - For support, a [discord server](https://discord.gg/Xy9VUASHhr) is available or [make an issue](https://github.com/Casvt/MIND/issues)
 - For the planning of issues or their progress, check the [project board](https://github.com/users/Casvt/projects/3)
